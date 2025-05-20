@@ -12,8 +12,8 @@ import Chatbot from "@/components/chatbot"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "PawFinder - Pet Adoption Platform",
-  description: "Find your perfect furry companion with PawFinder",
+  title: "Pet Connect - Pet Adoption Platform",
+  description: "Find your perfect furry companion with Pet Connect",
     generator: 'v0.dev'
 }
 

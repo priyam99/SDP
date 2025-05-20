@@ -5,11 +5,11 @@ export default function AboutPage() {
   return (
     <div className="container mx-auto px-4 py-12">
       <div className="max-w-4xl mx-auto">
-        <h1 className="text-4xl font-bold mb-6 text-center">About PawFinder</h1>
+        <h1 className="text-4xl font-bold mb-6 text-center">About Pet Connect</h1>
 
         <div className="mb-12">
           <p className="text-lg text-gray-700 mb-4">
-            PawFinder is a dedicated platform connecting loving homes with pets in need of adoption. Our mission is to
+            Pet Connect is a dedicated platform connecting loving homes with pets in need of adoption. Our mission is to
             reduce the number of homeless pets and ensure every animal finds a caring forever home.
           </p>
           <p className="text-lg text-gray-700">
@@ -84,19 +84,19 @@ export default function AboutPage() {
               avatar: "/placeholder.svg?height=150&width=150",
             },
             {
-              name: "Sam Rodriguez",
+              name: "Karan",
               role: "Head of Operations",
               bio: "Former shelter manager with a passion for connecting pets with loving homes.",
               avatar: "/placeholder.svg?height=150&width=150",
             },
             {
-              name: "Taylor Kim",
+              name: "Pratyush",
               role: "Community Manager",
               bio: "Dedicated to building a supportive community of pet adopters and advocates.",
               avatar: "/placeholder.svg?height=150&width=150",
             },
             {
-              name: "Taylor Kim",
+              name: "Prabhudutt",
               role: "Community Manager",
               bio: "Dedicated to building a supportive community of pet adopters and advocates.",
               avatar: "/placeholder.svg?height=150&width=150",
@@ -123,7 +123,7 @@ export default function AboutPage() {
         <div className="bg-gray-50 rounded-lg p-8 text-center">
           <h2 className="text-2xl font-bold mb-4">Join Our Mission</h2>
           <p className="text-lg text-gray-700 mb-6">
-            Whether you're looking to adopt, report a pet in need, or support our cause, we welcome you to the PawFinder
+            Whether you're looking to adopt, report a pet in need, or support our cause, we welcome you to the Pet Connect
             community.
           </p>
           <p className="text-gray-600">

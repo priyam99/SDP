@@ -47,7 +47,7 @@ export default function Login() {
         <CardHeader className="space-y-1 flex flex-col items-center">
           <div className="flex items-center space-x-2 mb-2">
             <PawPrint className="h-8 w-8 text-emerald-600" />
-            <span className="text-xl font-bold text-emerald-600">PawFinder</span>
+            <span className="text-xl font-bold text-emerald-600">Pet Connect</span>
           </div>
           <CardTitle className="text-2xl font-bold text-center">Welcome back</CardTitle>
           <CardDescription className="text-center">Enter your credentials to access your account</CardDescription>
