@@ -81,19 +81,19 @@ export default function AboutPage() {
               name: "Priyam",
               role: "Founder & CEO",
               bio: "Animal lover with 10+ years in animal rescue and welfare.",
-              avatar: "/placeholder.svg?height=150&width=150",
+              avatar: "/priyam.jpg?height=150&width=150",
             },
             {
               name: "Karan",
               role: "Head of Operations",
               bio: "Former shelter manager with a passion for connecting pets with loving homes.",
-              avatar: "/placeholder.svg?height=150&width=150",
+              avatar: "/karan.jpg?height=150&width=150",
             },
             {
               name: "Pratyush",
               role: "Community Manager",
               bio: "Dedicated to building a supportive community of pet adopters and advocates.",
-              avatar: "/placeholder.svg?height=150&width=150",
+              avatar: "/pr.jpg?height=150&width=150",
             },
             {
               name: "Prabhudutt",

@@ -46,7 +46,7 @@ export default function Chatbot() {
       setMessages([
         {
           id: "1",
-          text: "Hello! I'm PawBot, your virtual assistant. How can I help you today?",
+          text: "Hello! I'm Pet Connect, your virtual assistant. How can I help you today?",
           sender: "bot",
           timestamp: new Date(),
         },
